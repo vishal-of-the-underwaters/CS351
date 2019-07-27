@@ -1,0 +1,2 @@
+['st4', 'CS2002', 3] - ['Algorithms', 'AI', 'DBMS']
+['st7', 'CS4001', 7] - ['Elective 1', 'Elective 2', 'Elective 3']
